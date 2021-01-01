@@ -52,11 +52,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+1. 🎉 Merged PR [#6](https://github.com/sam-ok/Mondo-PWA/pull/6) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
+2. ❌ Closed PR [#2](https://github.com/sam-ok/Mondo-PWA/pull/2) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
+3. 🎉 Merged PR [#5](https://github.com/sam-ok/Mondo-PWA/pull/5) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
+4. 🗣 Commented on [#5](https://github.com/sam-ok/Mondo-PWA/issues/5) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
+5. ❌ Closed PR [#4](https://github.com/sam-ok/Mondo-PWA/pull/4) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
 <!--END_SECTION:activity-->
 
 </details>
