@@ -80,13 +80,13 @@
 
 </details>
 
-<br />
+<!-- <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="sam-ok's GitHub Stats" src="https://read-me-stats-git-master.sam-ok.vercel.app//api?username=sam-ok&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 <br />
 <br />
