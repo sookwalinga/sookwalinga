@@ -84,7 +84,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="sam-ok's GitHub Stats" src="https://sam-ok-git-master.sam-ok.vercel.app/api?username=sam-ok&show_icons=true&hide_border=true" />
+  <img align="left" alt="sam-ok's GitHub Stats" src="https://read-me-stats.sam-ok.vercel.app/api?username=sam-ok&show_icons=true&hide_border=true" />
 
 </details>
 
