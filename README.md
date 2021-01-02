@@ -33,7 +33,7 @@ https://img.shields.io/github/stars/sam-ok?style=social
 
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-
+<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 
 ### I love having meaninful conversations with my computer and currently we speak a number of languages listed below... and counting 😄
 
