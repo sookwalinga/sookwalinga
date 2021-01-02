@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm Samuel Okwalinga (Sam O.) - a full stack sotware developer
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/SamuelOkwalinga?color=%231DA1F2&label=Follow%20%40SamuelOkwalinga&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)]
-
-[![linkedin](https://img.shields.io/twitter/follow/SamuelOkwalinga?color=%231DA1F2&label=Follow%20%40SamuelOkwalinga&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)]
-
 <img src = "https://img.shields.io/github/followers/sam-ok?style=social"/>
 
 <img src ="https://img.shields.io/github/stars/sam-ok?style=social"/>
