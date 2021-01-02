@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Samuel Okwalinga (Sam O.) - a full stack sotware developer
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/SamuelOkwalinga?color=%231DA1F2&label=Follow%20%40SamuelOkwalinga&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
 
 ### I love having meaninful conversations with my computer and currently we speak a number of languages listed below... and counting 😄
 
@@ -64,14 +64,14 @@
 
 </details>
 
-<br />
+<!-- <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="sam-ok's GitHub Stats" src="https://sam-ok-git-master.sam-ok.vercel.app/api?username=sam-ok&show_icons=true&hide_border=true" />
 
 </details>
-
+ -->
 <br />
 <br />
 
