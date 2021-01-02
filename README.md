@@ -39,6 +39,8 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 <img align = "left" alt="node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align = "left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align = "left" alt="html" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -66,7 +68,7 @@
 <br/>
 <br/>
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: My Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com/sam-ok/Mondo-PWA/pull/6) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
