@@ -1,4 +1,5 @@
 ## Hi there 👋 Welcome 🤗 I'm Samuel Okwalinga (Sam O.) >>> a full stack software developer.
+My Portfolio: https://sam-ok.github.io/myPortfolio/
 
 
 ### I love having meaninful conversations with my computer and currently we speak a number of languages listed below... and counting 😄
