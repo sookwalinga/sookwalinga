@@ -1,5 +1,4 @@
 ## Hi there 👋 Welcome 🤗 I'm Samuel Okwalinga (Sam O.) >>> a full stack software developer.
-My Portfolio: https://sam-ok.github.io/myPortfolio/
 
 
 ### I love having meaninful conversations with my computer and currently we speak a number of languages listed below... and counting 😄
@@ -10,6 +9,8 @@ My Portfolio: https://sam-ok.github.io/myPortfolio/
 - ⚡ Fun fact: I love listening to music and playing the piano 🎧. I also love interior designing >> organized spacious rooms 🏠
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+My Portfolio: https://sam-ok.github.io/myPortfolio/
 
 ### Connect with me:
 
