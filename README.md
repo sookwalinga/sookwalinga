@@ -6,7 +6,7 @@
 - 🌱 I continue learning, adding value to myself daily so I can add value to humanity with the skills I gain.
 - 👯 I love working with other passionate developers.
 - 🥅 2021 Goals: Learn more technologies for frontend and backend through my own projects and open source projects.
-- ⚡ Fun fact: I love listening to music and playing the piano 🎧. I also love interior designing >> organized spacious rooms 🏠
+- ⚡ Fun fact: I love listening to music, playing the piano 🎧, badminton and chess.
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
