@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋, Happy to see you here 🤗</h1>
 <h2 align="center"> (I AM OPEN TO WORK) </h2>
-<h2 align="center">You can call me Samuel,</h2>
+<h2 align="center">Feel free to call me Samuel,</h2>
 <p align="center">
 A passionate, progressive software developer: 
 teachable,
 collaborative,
-and who also loves playing the piano, badminton and chess.
+loves playing the piano, badminton and chess.
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=sam-ok" alt="https://github.com/sam-ok" />
 </p>
