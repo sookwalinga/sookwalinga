@@ -5,7 +5,7 @@
 A passionate, progressive software developer: 
 teachable,
 collaborative,
-loves playing the piano, badminton and chess.
+also loves playing the piano, badminton and chess.
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=sam-ok" alt="https://github.com/sam-ok" />
 </p>
