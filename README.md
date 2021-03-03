@@ -67,7 +67,7 @@ My Portfolio: https://sam-ok.github.io/myPortfolio/
 <p align="center"> --Open for Hiring--></p>
 
 <h2 align="center"> 👨‍💻 Who Am I</h2>
-<p align="center">
+<p align="center" style="color:blue">
   <samp>A focused, passionate, progressive software developer: 
   </samp>
 🌱 Continuously learning,
