@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there 👋, happy to see you here 🤗</h1>
+<h1 align="center"> Hi there 👋, Happy to see you here 🤗</h1>
+<h2 align="center"> #OPEN TO WORK </h2>
 <h2 align="center">You can call me Samuel,</h2>
 <p align="center">
 A passionate, progressive software developer: 
@@ -33,7 +34,6 @@ and who also loves playing the piano, badminton and chess.
   <a target="_blank"href="https://twitter.com/SamuelOkwalinga"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sam.ictdev@gmail.com?subject=Hello%20Samuel,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h2 align="center"> #OPEN TO WORK </h2>
 
 <hr>
 
