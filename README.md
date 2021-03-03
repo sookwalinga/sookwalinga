@@ -24,7 +24,7 @@ and who also loves playing the piano, badminton and chess.
 <h2 align="center">💭 My Blogs</h2>
 <p align="center" align='right'>
 
-  <a target="blank"href="https://sam-ok.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://sam-ok.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 
