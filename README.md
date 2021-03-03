@@ -19,7 +19,8 @@ also loves playing the piano, badminton and chess.
 <img alt = "Node js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
 
 </p>
-<p align="center">Javascript, Typescript, JQuery, Ajax, SQL, Python, Java, Android Studio, Docker, Kubernetes, Circle CI, TravisCI, Git, Github, Bitbucket, Jenkins, Heroku.</p>
+<p align="center">Javascript, Typescript, JQuery, Ajax, SQL, Python, Java, Android Studio, React Native, Angular, Docker, Kubernetes, CircleCI, TravisCI, Git, Github, Bitbucket, Jenkins, Heroku,
+GraphQl, Nestjs.</p>
 <hr>
 
 <h2 align="center">💭 My Blogs</h2>
