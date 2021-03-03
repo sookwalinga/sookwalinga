@@ -1,7 +1,4 @@
-## Hi there 👋 Welcome 🤗 I'm Samuel Okwalinga (Sam O.) >>> a full stack software developer.
-
-
-### I love having meaninful conversations with my computer and currently we speak a number of languages listed below... and counting 😄
+## Hi there 👋 Welcome 🤗! I'm Samuel Okwalinga (Sam O.). A passionate full stack software developer.
 
 - 🌱 I continue learning, adding value to myself daily so I can add value to humanity with the skills I gain.
 - 👯 I love working with other passionate developers.
@@ -63,22 +60,14 @@ My Portfolio: https://sam-ok.github.io/myPortfolio/
   <summary>:zap: My Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/sam-ok/Mondo-PWA/pull/6) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
-2. ❌ Closed PR [#2](https://github.com/sam-ok/Mondo-PWA/pull/2) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
-3. 🎉 Merged PR [#5](https://github.com/sam-ok/Mondo-PWA/pull/5) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
-4. 🗣 Commented on [#5](https://github.com/sam-ok/Mondo-PWA/issues/5) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
-5. ❌ Closed PR [#4](https://github.com/sam-ok/Mondo-PWA/pull/4) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/Mondo-PWA)
+1. 🎉 Merged PR [#6](https://github.com/sam-ok/Mondo-PWA/pull/6) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/)
+2. ❌ Closed PR [#2](https://github.com/sam-ok/Mondo-PWA/pull/2) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/)
+3. 🎉 Merged PR [#5](https://github.com/sam-ok/Mondo-PWA/pull/5) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/)
+4. 🗣 Commented on [#5](https://github.com/sam-ok/Mondo-PWA/issues/5) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/)
+5. ❌ Closed PR [#4](https://github.com/sam-ok/Mondo-PWA/pull/4) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/)
 <!--END_SECTION:activity-->
 
 </details>
-
-<!-- <br />
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="sam-ok's GitHub Stats" src="https://read-me-stats-git-master.sam-ok.vercel.app//api?username=sam-ok&show_icons=true&hide_border=true" />
-
-</details> -->
 
 <br />
 <br />
