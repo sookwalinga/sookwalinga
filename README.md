@@ -59,29 +59,26 @@ My Portfolio: https://sam-ok.github.io/myPortfolio/
 [facebook]: https://www.facebook.com/Sokwalinga
 [gmail]: sam.ictdev@gmail.com -->
 
-<h1 align="center"> 👋 </h1>
+<h1 align="center"> Hi there 👋, </h1>
 <!-- <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div> -->
 <p align="center"> --Open for Hiring--></p>
 
-<h2 align="center"> 👨‍💻 Who Am I</h2>
-<p align="center" style="background:blue">
-  <samp>A focused, passionate, progressive software developer: 
+<h2 align="center">You can call me Samuel.</h2>
+<p align="center" style="background:red">
+  <samp>A passionate, progressive software developer: 
   </samp>
-🌱 Continuously learning,
-👯 Collaborating,
-🤗 Savoring every line of code I write.
-  <br> <br>
-🥅 2021 Goals: Contribute more to open source projects.
-⚡ Fun fact: I love listening to music, playing the piano 🎧, badminton and chess.
+- 🌱 teachable,
+- 👯 collaborative,
+<samp>and who loves listening to music, playing the piano :musical_keyboard:, badminton and chess.</samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=sam-ok" alt="https://github.com/sam-ok" />
 </p>
 
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h2 align="center"> 🔭 Current Tools of Trade</h2>
 <p align="center">
 <img alt="mongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
 <img alt= "Express Js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>&nbsp;&nbsp;
@@ -93,7 +90,7 @@ My Portfolio: https://sam-ok.github.io/myPortfolio/
 
 <hr>
 
-<h2 align="center">💬 My Blog Articles</h2>
+<h2 align="center">:thought_balloon: My Blog Articles</h2>
 <p align="center" align='right'>
   <!-- <a target="_blank"href="..."><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp; -->
   <a target="_blank"href="https://sam-ok.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
@@ -110,4 +107,4 @@ My Portfolio: https://sam-ok.github.io/myPortfolio/
 
 <hr>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2  align="center">Check Out Some of My Repos :point_down: </h2>
