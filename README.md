@@ -52,24 +52,6 @@ My Portfolio: https://sam-ok.github.io/myPortfolio/
 <img align = "left" alt="sqlite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <br />
-<br/>
-<br/>
-<br/>
-<br/>
-<details>
-  <summary>:zap: My Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/sam-ok/pull/6) in [sam-ok/](https://github.com/sam-ok/)
-2. ❌ Closed PR [#2](https://github.com/sam-ok/pull/2) in [sam-ok/](https://github.com/sam-ok/)
-3. 🎉 Merged PR [#5](https://github.com/sam-ok/pull/5) in [sam-ok/](https://github.com/sam-ok/)
-4. 🗣 Commented on [#5](https://github.com/sam-ok/issues/5) in [sam-ok/](https://github.com/sam-ok/)
-5. ❌ Closed PR [#4](https://github.com/sam-ok/pull/4) in [sam-ok/](https://github.com/sam-ok/)
-<!--END_SECTION:activity-->
-
-</details>
-
-<br />
 <br />
 
 [twitter]: https://twitter.com/SamuelOkwalinga
