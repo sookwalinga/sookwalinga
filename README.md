@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, Happy to see you here 🤗</h1>
+<h1 align="center"> Hi there 👋, happy to see you here 🤗</h1>
 <h2 align="center">You can call me Samuel,</h2>
 <p align="center">
 A passionate, progressive software developer: 
@@ -23,7 +23,6 @@ and who also loves playing the piano, badminton and chess.
 
 <h2 align="center">💭 My Blogs</h2>
 <p align="center">
-
   <a target="_blank" href="https://sam-ok.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
