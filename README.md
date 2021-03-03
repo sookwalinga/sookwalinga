@@ -59,7 +59,6 @@ My Portfolio: https://sam-ok.github.io/myPortfolio/
 [facebook]: https://www.facebook.com/Sokwalinga
 [gmail]: sam.ictdev@gmail.com -->
 
-
 <h1 align="center"> 👋 </h1>
 <!-- <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
@@ -67,7 +66,7 @@ My Portfolio: https://sam-ok.github.io/myPortfolio/
 <p align="center"> --Open for Hiring--></p>
 
 <h2 align="center"> 👨‍💻 Who Am I</h2>
-<p align="center" style="color:blue">
+<p align="center" style="background:blue">
   <samp>A focused, passionate, progressive software developer: 
   </samp>
 🌱 Continuously learning,
