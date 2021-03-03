@@ -60,11 +60,11 @@ My Portfolio: https://sam-ok.github.io/myPortfolio/
   <summary>:zap: My Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/sam-ok/Mondo-PWA/pull/6) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/)
-2. ❌ Closed PR [#2](https://github.com/sam-ok/Mondo-PWA/pull/2) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/)
-3. 🎉 Merged PR [#5](https://github.com/sam-ok/Mondo-PWA/pull/5) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/)
-4. 🗣 Commented on [#5](https://github.com/sam-ok/Mondo-PWA/issues/5) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/)
-5. ❌ Closed PR [#4](https://github.com/sam-ok/Mondo-PWA/pull/4) in [sam-ok/Mondo-PWA](https://github.com/sam-ok/)
+1. 🎉 Merged PR [#6](https://github.com/sam-ok/pull/6) in [sam-ok/](https://github.com/sam-ok/)
+2. ❌ Closed PR [#2](https://github.com/sam-ok/pull/2) in [sam-ok/](https://github.com/sam-ok/)
+3. 🎉 Merged PR [#5](https://github.com/sam-ok/pull/5) in [sam-ok/](https://github.com/sam-ok/)
+4. 🗣 Commented on [#5](https://github.com/sam-ok/issues/5) in [sam-ok/](https://github.com/sam-ok/)
+5. ❌ Closed PR [#4](https://github.com/sam-ok/pull/4) in [sam-ok/](https://github.com/sam-ok/)
 <!--END_SECTION:activity-->
 
 </details>
