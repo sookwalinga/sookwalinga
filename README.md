@@ -5,7 +5,7 @@
 - 🥅 2021 Goals: Learn more technologies for frontend and backend through my own projects and open source projects.
 - ⚡ Fun fact: I love listening to music, playing the piano 🎧, badminton and chess.
 
-[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 My Portfolio: https://sam-ok.github.io/myPortfolio/
 
