@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋, </h1>
-<p align="center"> Happy to see you here 🤗</p>
+<h2 align="center"> Happy to see you here 🤗</h2>
 
-<h2 align="center">You can call me Samuel,</h2>
-<p align="center" style="background:red">
+<h3 align="center">You can call me Samuel,</h3>
+<p align="center">
 A passionate, progressive software developer: 
 teachable,
 collaborative,
@@ -30,12 +30,14 @@ and who also loves playing the piano, badminton and chess.
 </p>
 <hr>
 
-<h2  align="center">☎️ Contact</h2>
+<h2  align="center">☎️ I will be glad to here from you</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sam.ictdev@gmail.com?subject=Hello%20Samuel,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center"> #OPEN TO WORK </p>
+
 <hr>
 
 <h2  align="center">Check Out Some of My Repos 👇 </h2>
