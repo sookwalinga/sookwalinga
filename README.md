@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, Happy to see you here 🤗</h1>
-<h2 align="center"> #OPEN TO WORK </h2>
+<h2 align="center"> (OPEN TO WORK) </h2>
 <h2 align="center">You can call me Samuel,</h2>
 <p align="center">
 A passionate, progressive software developer: 
