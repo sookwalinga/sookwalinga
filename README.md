@@ -7,7 +7,7 @@ teachable,
 collaborative,
 also loves playing the piano, badminton and chess.
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=sookwalinga" alt="https://github.com/sookwalinga" />
+  <img src="https://komarev.com/ghpvc/?username=sam-ok" alt="https://github.com/sookwalinga" />
 </p>
 <hr>
 
