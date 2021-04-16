@@ -7,8 +7,7 @@ teachable,
 collaborative,
 also loves playing the piano, badminton and chess.
   <br> <br>
-  ![](https://komarev.com/ghpvc/?username=sookwalinga&color=blueviolet)
-  <!-- <img src="https://komarev.com/ghpvc/?username=sookwalinga" alt="profile views" /> -->
+  <img src="https://komarev.com/ghpvc/?username=sookwalinga&color=blueviolet" alt="profile views" />
 </p>
 <hr>
 
