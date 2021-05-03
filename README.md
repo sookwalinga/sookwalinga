@@ -21,7 +21,7 @@ also loves playing the piano, badminton and chess.
 <img alt = "WordPress" src="https://img.shields.io/badge/WordPress%20-%2300D9FF.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />&nbsp;&nbsp;
 
 </p>
-<p align="center">Javascript, Typescript, JQuery, Ajax, SQL, Python, Java, Android Studio, React Native, Django, WordPress, Docker, CircleCI, TravisCI, Git, Github, Bitbucket, Heroku, GraphQl, Nestjs.</p>
+<p align="center">Javascript, Typescript, JQuery, Ajax, SQL, Python, Java, PHP, Android Studio, React Native, Django, WordPress, Docker, CircleCI, TravisCI, Git, Github, Bitbucket, Heroku, GraphQl, Nestjs.</p>
 <hr>
 
 <h2 align="center">💭 My Blogs</h2>
