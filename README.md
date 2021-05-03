@@ -40,4 +40,4 @@ also loves playing the piano, badminton and chess.
 
 <hr>
 
-<h2  align="center">Check Out Some of My Repos 👇 </h2>
+<h2  align="center">Check Out Some of My Repos 👇 Don't forget to star what you like⭐</h2>
