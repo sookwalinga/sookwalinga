@@ -17,11 +17,12 @@ also loves playing the piano, badminton and chess.
 <img alt= "Express Js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>&nbsp;&nbsp;
 <img alt="React" src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
 <img alt = "Node js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+<img alt = "Flutter" src="https://img.shields.io/badge/Flutter-c3ebc0.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
 <img alt = "Android" src="https://img.shields.io/badge/Android-c3ebc0.svg?&style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
 <img alt = "WordPress" src="https://img.shields.io/badge/WordPress%20-%2300D9FF.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />&nbsp;&nbsp;
 
 </p>
-<p align="center">Javascript, Typescript, Python, PHP, Java, SQL, Android Studio, React Native, Django, WordPress, Firebase, CircleCI, Git, Heroku, Nextjs.</p>
+<p align="center">Javascript, Typescript, Nextjs, Flutter, Firebase, Git</p>
 <hr>
 
 <h2 align="center">💭 My Blogs</h2>
