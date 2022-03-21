@@ -14,7 +14,7 @@ also loves playing the piano, badminton and chess.
 <h2 align="center"> 🧰 Current Tools of Trade</h2>
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-<img alt="Nextjs" src="https://img.shields.io/badge/nextjs%20-%23404d59.svg?&style=for-the-badge&logo=nextjs&logoColor=white" />&nbsp;&nbsp;
+<img alt="Nextjs" src="https://img.shields.io/badge/nextjs%20-%23404d59.svg?&style=for-the-badge&logo=next&logoColor=white" />&nbsp;&nbsp;
 <img alt = "Flutter" src="https://img.shields.io/badge/Flutter%20-%2300D9FF.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
 <img alt = "TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS%20-%2300D9FF.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;
 <img alt = "Node js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
