@@ -22,7 +22,7 @@ also loves playing the piano, badminton and chess.
 <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%FFA611.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>&nbsp;&nbsp;
 <img alt = "Android" src="https://img.shields.io/badge/Android-c3ebc0.svg?&style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">Javascript, Typescript, Dart, Java, Git</p>
+<p align="center">Javascript, Dart, Python, Java, Git</p>
 <hr>
 
 <h2 align="center">💭 My Blogs</h2>
