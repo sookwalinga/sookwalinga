@@ -20,9 +20,8 @@ also loves playing the piano, badminton and chess.
 <img alt = "Node js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
 <img alt="mongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
 <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%FFA611.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>&nbsp;&nbsp;
-<img alt = "Android" src="https://img.shields.io/badge/Android-c3ebc0.svg?&style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">Javascript, Dart, Python, Java, Git</p>
+<p align="center">Javascript, Dart, Git</p>
 <hr>
 
 <h2 align="center">💭 My Blogs</h2>
