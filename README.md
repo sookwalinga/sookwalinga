@@ -43,6 +43,11 @@ also loves playing the piano, badminton and chess.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sookwalinga&theme=dark&background=000000)](https://git.io/streak-stats) [![Summary](https://github-readme-stats.vercel.app/api/?username=sookwalinga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sookwalinga&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sookwalinga&repo=convoychat" />
+</a>
 <hr>
 <h2  align="center">Check Out Some of My Repos 👇 Don't forget to star what you like⭐</h2>
