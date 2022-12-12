@@ -40,8 +40,12 @@ also loves playing the piano, badminton and chess.
 
 <hr>
 
-### :fire: My Stats :
-<img src="http://github-readme-streak-stats.herokuapp.com?user=sookwalinga&theme=dark&background=000000" alt="Github stats" /> ![Commit Summary](https://github-readme-stats.vercel.app/api/?username=sookwalinga&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sookwalinga&theme=vision-friendly-dark&layout=compact&langs_count=10&card_width=1000)
+<h2 align="center"> :fire: My Stats</h2>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=sookwalinga&theme=dark&background=000000" alt="Github stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/?username=sookwalinga&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="Commit Summary"/>
+                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sookwalinga&theme=vision-friendly-dark&layout=compact&langs_count=10" alt="My top languages"/>
+</p>
 
 <hr>
 <h2  align="center">Check Out Some of My Repos 👇 Don't forget to star what you like⭐</h2>
