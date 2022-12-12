@@ -41,7 +41,7 @@ also loves playing the piano, badminton and chess.
 <hr>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sookwalinga&theme=dark&background=000000)](https://git.io/streak-stats) [![Summary](https://github-readme-stats.vercel.app/api/?username=sookwalinga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sookwalinga&theme=dark&background=000000)](https://git.io/streak-stats) [![Summary](https://github-readme-stats.vercel.app/api/?username=sookwalinga&layout=compact&theme=vision-friendly-dark)](https://github.com/sookwalinga/github-readme-stats)
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sookwalinga&repo=github-readme-stats" />
