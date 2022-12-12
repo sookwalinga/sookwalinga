@@ -40,4 +40,8 @@ also loves playing the piano, badminton and chess.
 
 <hr>
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=sookwalinga
+<hr>
+
 <h2  align="center">Check Out Some of My Repos 👇 Don't forget to star what you like⭐</h2>
