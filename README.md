@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, Happy to see you here 🤗</h1>
 <h2 align="center">Feel free to call me Samuel,</h2>
 <p align="center">
-  A passionate, progressive software developer -
+  A passionate, progressive software developer:
   teachable,
   collaborative,
   also loves playing piano, badminton and chess.
