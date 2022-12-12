@@ -1,4 +1,5 @@
 <h1 align="center"> Hi there 👋, Happy to see you here 🤗</h1>
+
 <h2 align="center">Feel free to call me Samuel,</h2>
 <p align="center">
   A passionate, progressive software developer:
@@ -7,6 +8,17 @@
   also loves playing piano, badminton and chess.
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=sookwalinga&color=blueviolet" alt="profile views" />
+</p>
+<hr>
+
+<h2 align="center">💭 Socials</h2>
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/sookwalinga"><img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/sookwalinga"><img
+      src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://sookwalinga.medium.com/"><img
+      src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;     
 </p>
 <hr>
 
@@ -28,17 +40,6 @@
     src="https://img.shields.io/badge/Firebase-%FFA611.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align="center">Javascript, Typescript, Dart, Python, Git</p>
-<hr>
-
-<h2 align="center">💭 Socials</h2>
-<p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/sookwalinga"><img
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/sookwalinga"><img
-      src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://sookwalinga.medium.com/"><img
-      src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;     
-</p>
 <hr>
 
 <h2 align="center"> :fire: My Stats</h2>
