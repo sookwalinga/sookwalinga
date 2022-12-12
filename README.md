@@ -41,7 +41,6 @@ also loves playing the piano, badminton and chess.
 <hr>
 
 ### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sookwalinga&theme=dark&background=000000) ![Commit Summary](https://github-readme-stats.vercel.app/api/?username=sookwalinga&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sookwalinga&theme=vision-friendly-dark&layout=compact&langs_count=10)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sookwalinga&repo=github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sookwalinga&theme=dark&background=000000) ![Commit Summary](https://github-readme-stats.vercel.app/api/?username=sookwalinga&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sookwalinga&theme=vision-friendly-dark&layout=compact&langs_count=10&card_width=1000)
 <hr>
 <h2  align="center">Check Out Some of My Repos 👇 Don't forget to star what you like⭐</h2>
