@@ -57,10 +57,10 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sookwalinga&theme=dark&background=000000"
     alt="Github stats" width="90%"/>
   <img
-    src="https://github-readme-stats.vercel.app/api/?username=sookwalinga&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true"
+    src="https://github-readme-stats.vercel.app/api/?username=sookwalinga&hide_title=true&text_bold=false&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark"
     alt="Commit Summary" width="90%"/>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sookwalinga&theme=vision-friendly-dark&layout=compact&langs_count=10&hide_title=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sookwalinga&hide_title=true&theme=vision-friendly-dark&layout=compact&langs_count=10"
     alt="My top languages" width="90%"/>
 </p>
 
