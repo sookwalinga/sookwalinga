@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, Happy to see you here 🤗</h1>
+<h1 align="center"> Hi there 👋 Happy to see you here 🤗</h1>
 
 <h2 align="center">Feel free to call me Samuel,</h2>
 <p align="center">
