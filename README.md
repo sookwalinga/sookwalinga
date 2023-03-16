@@ -1,21 +1,11 @@
-<h4 align="center"> Hi there 👋 Welcome! 🙂</h1>
+Hi there! 👋 My name is Sam, and I'm on a mission to use technology as a force for good. I believe that every challenge we face is an opportunity for innovation, and that's why I dedicate my time to developing projects that have the power to make a real impact on people's lives.
 
-<h6 align="center">Feel free to call me Sam</h2>
-<p>
- I'm a passionate problem solver and technology enthusiast dedicated to making a positive impact on the world.
-  </p>
-  <p>
-  I believe that technology has the power to solve some of the world's biggest challenges and drive progress in areas like sustainability, healthcare, education, and beyond. That's why I spend my time working on projects that are not only innovative and technically challenging, but also have the potential to make a real difference in people's lives.
-  </p>
-  <p>
-  My diverse skill set includes proficiency in programming languages such as Python, JavaScript, and Dart, as well as web development frameworks like Next.js, Node.js, and Django. I'm also experienced in mobile application development using Flutter and have a strong background in object-oriented programming, design patterns, and software development methodologies.
-  </p>
-  <p>
-  I'm always seeking to learn new skills and stay up-to-date with emerging technologies, and I'm committed to working collaboratively with others to achieve shared goals. Whether I'm contributing to open-source projects or building my own software solutions, my aim is to create technology that is both innovative and impactful.
-  </p>
-  <p>
-  Thank you for visiting my profile, and I look forward to connecting with others who share my passion for using technology to create a better world.
-  </p>
+From sustainability and healthcare to education and beyond, I'm constantly seeking new ways to tackle the world's most pressing issues. With a diverse skill set that includes programming languages such as Python, JavaScript, and Dart, as well as web development frameworks like Next.js, Node.js, and Django, I'm equipped to take on a wide range of projects.
+
+But my work doesn't stop there. I'm committed to staying at the forefront of emerging technologies and collaborating with others to achieve shared goals. Whether I'm contributing to open-source projects or building my own software solutions, I'm driven by a passion for creating technology that is both innovative and impactful.
+
+I'm excited to connect with others who share my vision for a better, brighter future. Let's use technology to make a positive difference in the world!
+
   <p align="center">
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=sookwalinga&color=blueviolet" alt="profile views" />
