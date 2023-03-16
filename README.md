@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there 👋 Welcome to my GitHub profile! 🤗</h1>
+<h4 align="center"> Hi there 👋 Welcome! 🙂</h1>
 
-<h2 align="center">Feel free to call me Sam,</h2>
+<h6 align="center">Feel free to call me Sam</h2>
 <p>
  I'm a passionate problem solver and technology enthusiast dedicated to making a positive impact on the world.
   </p>
