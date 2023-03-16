@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋 Welcome to my GitHub profile! 🤗</h1>
 
 <h2 align="center">Feel free to call me Sam,</h2>
-<p align="center">
- a passionate problem solver and technology enthusiast dedicated to making a positive impact on the world.
+<p>
+ I'm a passionate problem solver and technology enthusiast dedicated to making a positive impact on the world.
   </p>
   <p>
   I believe that technology has the power to solve some of the world's biggest challenges and drive progress in areas like sustainability, healthcare, education, and beyond. That's why I spend my time working on projects that are not only innovative and technically challenging, but also have the potential to make a real difference in people's lives.
