@@ -41,8 +41,6 @@ I'm excited to connect with others who share my vision for a better, brighter fu
 
 <h2 align="center"> :fire: My Stats</h2>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=sookwalinga&theme=dark&background=000000"
-    alt="Github stats" width="90%" />
   <img
     src="https://github-readme-stats.vercel.app/api?username=sookwalinga&include_all_commits=true&count_private=true&show_icons=true&hide_title=true&text_bold=false&theme=vision-friendly-dark"
     alt="Commit Summary" width="90%" />
