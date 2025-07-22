@@ -1,10 +1,14 @@
-Hi there! 👋 My name is Sam, and I'm on a mission to use technology as a force for good. I believe that every challenge we face is an opportunity for innovation, and that's why I dedicate my time to developing projects that have the power to make a real impact on people's lives.
+Hi there! 👋 I’m Sam, a passionate software developer committed to using technology as a force for good. With over 4 years of experience, I specialize in JavaScript, TypeScript, Python, and general scripting—crafting solutions that are practical, efficient, and impactful.
 
-From sustainability and healthcare to education and beyond, I'm constantly seeking new ways to tackle the world's most pressing issues. With a diverse skill set that includes programming languages such as Python, JavaScript, and Dart, as well as web development frameworks like Next.js, Node.js, and Django, I'm equipped to take on a wide range of projects.
+Currently, I work remotely with World Merit, while also contributing to open-source projects like the Community Health Toolkit (CHT) at Medic, helping improve healthcare delivery in under-resourced communities.
 
-But my work doesn't stop there. I'm committed to staying at the forefront of emerging technologies and collaborating with others to achieve shared goals. Whether I'm contributing to open-source projects or building my own software solutions, I'm driven by a passion for creating technology that is both innovative and impactful.
+My mission goes beyond code—I believe that every problem presents an opportunity to build something that makes a real difference. From digital inclusion to youth empowerment, I’m driven by purpose and a desire to solve real-world challenges.
 
-I'm excited to connect with others who share my vision for a better, brighter future. Let's use technology to make a positive difference in the world!
+Beyond coding, I’m actively deepening my skills with the goal of transitioning from implementation to software architecture—focusing on designing systems that are scalable, resilient, and aligned with meaningful impact.
+
+I’m always looking to collaborate on meaningful work and connect with others who believe in the power of technology to shape a better future. Let’s build something that matters!
+
+
 
   <p align="center">
   <br> <br>
